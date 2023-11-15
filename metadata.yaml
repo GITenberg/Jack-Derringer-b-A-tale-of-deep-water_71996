@@ -1,0 +1,31 @@
+_repo: Jack-Derringer-b-A-tale-of-deep-water_71996
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lubbock, Basil
+    aliases:
+    - Lubbock, Alfred Basil
+    - Lubbock, A. Basil
+    birthdate: 1876
+    deathdate: 1944
+    gutenberg_agent_id: '47107'
+    url: http://www.gutenberg.org/2009/agents/47107
+description: ''
+gutenberg_issued: '2023-11-01'
+identifiers:
+  gutenberg: '71996'
+language: en
+pgterms:marc905: 20230218112634lubbock
+pgterms:marc906: '1906'
+pgterms:marc907: GB
+production_note: Hekula03, Graeme Mackreth and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bJohn Murray, $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Jack Derringer : $b A tale of deep water'
+url: http://www.gutenberg.org/ebooks/71996
